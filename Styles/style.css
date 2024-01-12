@@ -1,0 +1,52 @@
+*{
+    margin: 0,auto;
+}
+
+main{
+    height: 550px;
+    width: 1280px;
+    background-color: #D4D4D8;
+    display: flex;
+    padding: 140px;
+    margin: 100px;
+    margin: 0,auto;
+}
+.star{
+    background-color: #f8e5b8;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+}
+.left-side{
+    width: 50%;
+    margin: 0,auto;
+}
+.right-side{
+    padding-left:100px;
+}
+
+.google-logo{
+    height: 40px;
+    width: 100px;
+}
+.logo{
+    display: flex;
+    gap: 10px;
+}
+
+.banner-1{
+    padding: 20px;
+    background-color: #FAFAF9;
+    border-radius: 20px;
+}
+.banner-2{
+    padding: 20px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+}
+.banner-two{
+    padding-right: 140px;
+}
+.p{
+    font-size: 30px;
+}
